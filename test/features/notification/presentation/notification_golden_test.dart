@@ -1,9 +1,10 @@
 import 'dart:async';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:get_it/get_it.dart';
 import 'package:levy_notification/notification.dart';
-import 'package:levy_core/core.dart';
 import 'package:levy_test_utils/test_utils.dart';
+import 'package:levy_theme/core/theme/theme.dart';
 import 'package:mocktail/mocktail.dart';
 
 final class NotificationDataSourceMock extends Mock implements NotificationDataSource {}

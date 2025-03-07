@@ -22,6 +22,9 @@ dependencies:
   levy_shared_entities:
     path: ../levy_shared_entities
 
+  levy_theme:
+    path: ../levy_theme
+
   levy_test_utils:
     path: ../levy_test_utils
   #    git:

@@ -7,4 +7,4 @@ abstract class RegisterModule {}
   preferRelativeImports: false,
 )
 
-void configureAddressDependencies() {}
+void configureNotificationDependencies() {}
